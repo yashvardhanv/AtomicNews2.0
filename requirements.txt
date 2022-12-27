@@ -1,0 +1,5 @@
+Flask==1.1.4
+newsapi-python
+newspaper3k
+requests
+gunicorn
